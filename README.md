@@ -368,8 +368,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **[SURENDHAR S]**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [(https://www.linkedin.com/jobs/view/4411334198/)]
+- GitHub: [https://github.com/Surendharsure46]
+- LinkedIn: [www.linkedin.com/in/surendhar-s-765b132bb]
 - Email: s.surendharsure2004@gmail.com
 
 ---
