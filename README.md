@@ -366,11 +366,11 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## Author
 
-**[Your Full Name]**
+**[SURENDHAR S]**
 
 - GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Email: your.email@example.com
+- LinkedIn: [(https://www.linkedin.com/jobs/view/4411334198/)]
+- Email: s.surendharsure2004@gmail.com
 
 ---
 
